@@ -1,0 +1,18 @@
+[Dropdown Browser]
+Description=Dropdown Browser
+desktops=\\0
+desktopsrule=2
+ignoregeometry=true
+ignoregeometryrule=2
+maxsize=2560,1407
+maxsizerule=2
+minsize=2560,600
+minsizerule=2
+noborder=true
+noborderrule=2
+position=0,33
+positionrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=8e0420f1-8de5-48e2-a277-395e4f4f6300
+wmclassmatch=1
