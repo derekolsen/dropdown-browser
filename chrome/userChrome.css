@@ -7,3 +7,7 @@
 hbox#browser{
   border-bottom: 1px solid #919497;
 }
+
+@media (prefers-color-scheme: dark) {
+  border-bottom: 1px solid #111;
+}
