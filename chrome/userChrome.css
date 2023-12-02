@@ -1,0 +1,9 @@
+/* about:config => toolkit.legacyUserProfileCustomizations.stylesheets = true */
+
+#navigator-toolbox {
+  visibility: collapse;
+}
+
+hbox#browser{
+  border-bottom: 1px solid #919497;
+}
